@@ -1,4 +1,3 @@
-railFenceCipher.java
 class railfenceCipherHelper {
  int depth;
  String encode(String msg, int depth) throws Exception {
